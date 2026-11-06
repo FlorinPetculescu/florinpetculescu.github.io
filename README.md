@@ -31,11 +31,11 @@ This repository hosts the public privacy and support documents for Seasons Unfol
 | Support & privacy requests | [florin.petculescu96@gmail.com](mailto:florin.petculescu96@gmail.com) |
 | Authorized advertising sellers | [app-ads.txt](https://florinpetculescu.github.io/app-ads.txt) |
 
-For support, include a short description of the issue and your device model. For account-related requests, contact us from the Google email used to sign in to the game. **Never send passwords, verification codes, or payment card details.**
+For support, include a short description of the issue and your device model. For account-related requests, contact me from the Google email used to sign in to the game. **Never send passwords, verification codes, or payment card details.**
 
 ## About this repository
 
-The game is developed by **Petculescu Florin · Bloomlight Games**.
+I am **Petculescu Florin**, the individual developer of Seasons Unfold. **Bloomlight Games** is the name I use to publish the game.
 
 Only public documents are hosted here. The game's source code, assets, and private configuration are maintained separately.
 
